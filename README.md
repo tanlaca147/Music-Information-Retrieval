@@ -1,6 +1,6 @@
 # Music-Information-Retrieval
 
-Recommend Ubuntu
+Recommend Ubuntu , must connect Internet
 
 # Requirement:
 sudo apt install ffmpeg
